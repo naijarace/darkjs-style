@@ -25,7 +25,7 @@
     --bs-warning: #fbcf33;
     --bs-danger: #ea0606;
     --bs-light: #e9ecef;
-    --bs-dark: #344767;
+    --bs-dark: #fffafa;
     --bs-white: #fff;
     --bs-gradient-primary-right: #7928ca;
     --bs-gradient-primary-left: #ff0080;
@@ -63,7 +63,7 @@ body {
     font-size: 1rem;
     line-height: 1.5;
     color: var(--bs-body-color);
-    background-color: #fff;
+    background-color: #000;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
