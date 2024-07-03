@@ -25,7 +25,7 @@
     --bs-warning: #fbcf33;
     --bs-danger: #ea0606;
     --bs-light: #e9ecef;
-    --bs-dark: #fffafa;
+    --bs-dark: #040404;
     --bs-white: #fff;
     --bs-gradient-primary-right: #7928ca;
     --bs-gradient-primary-left: #ff0080;
@@ -93,7 +93,7 @@ h6 {
     margin-bottom: 0.5rem;
     font-weight: 400;
     line-height: 1.2;
-    color: var(--bs-dark);
+    color: var(--bs-white);
 }
 .h1,
 h1 {
@@ -15205,7 +15205,7 @@ fieldset:disabled .btn {
     line-height: 1.571;
     font-weight: 600;
     font-size: 0.875rem;
-    color: #3a416f;
+    color: #b8b8b8;
 }
 .author .stats {
     font-size: 0.875rem;
